@@ -11,6 +11,6 @@ def quicksort(arr):
 
 # Example!!!:
 if __name__ == "__main__":
-    unsorted_list = [3, 6, 8, 10, 1, 2, 1, 43, 104, 1, 0, 5, 4, 3, 91]
+    unsorted_list = [3, 6, 8, 10, 1, 2, 1, 43, 104, 1, 0, 5, 4, 3, 91, 4]
     sorted_list = quicksort(unsorted_list)
     print(sorted_list)
